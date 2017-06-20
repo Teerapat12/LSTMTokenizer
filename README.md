@@ -5,7 +5,7 @@ This is an attempt to use Deep Learning (LSTM) to predict where to cut a Thai wo
 For example, suppose "ไก่จิกเด็กตายบนปากโอ่ง" was given, the tokenizer should seperate the string into "ไก่|จิก|เด็ก|ตาย|บน|ปาก|โอ่ง"
 
 
-Result (On similar source but seperated into training and testing set
+Result 
 
 Test set 1
 Start comparing
