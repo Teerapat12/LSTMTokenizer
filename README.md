@@ -27,3 +27,10 @@ Accuracy : 96.50
 Precision : 90.79
 Recall : 92.27
 F1 Score : 91.52
+
+Test set 4
+Start comparing
+Accuracy : 96.08
+Precision : 89.24
+Recall : 91.87
+F1 Score : 90.53
